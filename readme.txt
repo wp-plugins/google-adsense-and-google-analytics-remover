@@ -10,7 +10,7 @@ Prevent Google AdSense ads from being displayed and remove Google Analytics, whi
 
 == Description ==
 
-Are you sick of generating unwanted Google Adsense and Google Analytics impressions?  Just install this simple plugin.  When you're logged into your WordPress blog, the plugin will prevent AdSense ads from displaying and the Analytics tracking code is removed as well.
+Are you sick of generating unwanted Google Adsense and Google Analytics impressions?  Just install this simple plugin.  When you're logged into your WordPress blog, the plugin will [prevent AdSense ads from displaying](http://geeklad.com/wordpress-plugin-to-remove-google-adsense-and-google-analytics "Prevent Google AdSense and Google Analytics from Displaying in WordPress") and the Analytics tracking code is removed as well.
 
 **Features**
 
